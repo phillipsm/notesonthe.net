@@ -1,0 +1,87 @@
+body {
+	font-family: 'freight-sans-pro', sans-serif;
+	color: #101618;
+}
+
+#container {
+	max-width: 960px;
+	margin:auto;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+a {
+	text-decoration:none;
+	color: #101618;
+}
+
+a:hover {
+	color: #0000B2;
+}
+
+#header {
+	padding: 0 20px 0 10px;
+	height: 80px;
+
+}
+#header-title {
+	font-size: 40px;
+	float:right;
+	padding-right:25px;
+	padding-top:50px;
+}
+
+#logo-nav-chunk {
+	width: 143px;
+	float:left;
+}
+
+#logo-nav-chunk p{
+	line-height: .4;
+}
+
+#logo-nav-chunk .right{
+	margin-top:35px;
+}
+
+#content {
+	clear:both;
+	padding-top: 10px;
+}
+
+#content p {
+	letter-spacing:none;
+	font-size: 17px;
+	font-family: 'Alegreya', serif;	
+}
+
+/* Landing Page -- start */
+#middle-house{
+	height:160px;
+	width: 290px;
+	margin: auto;
+	padding-top:200px;
+}
+
+#middle-house p {
+	font-size: 27px;
+	line-height: .5;
+	letter-spacing: .11em;
+}
+
+#nav-list {
+	padding-top:7px;
+}
+
+/* Landing Page -- end */
+
+
+/* About page -- start*/
+
+/* About page -- end*/
